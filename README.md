@@ -56,7 +56,7 @@ the internet is a big place. thanks for stopping by mine ♡
 
 ˖ ݁. ࿔°
 
-**see you in the next project**
+**hope you leave with an idea worth building**
 
 ˖ ݁. ࿔°
 
