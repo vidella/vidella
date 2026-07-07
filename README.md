@@ -1,16 +1,44 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**vidella/vidella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+☘︎. ݁˖ welcome ˖݁.☘︎
+to a little playground for things i build.
 
-Here are some ideas to get you started:
+──────────── ✦ ────────────
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+the internet is a big place. thanks for stopping by mine ♡
+
+</div>
+
+### what you'll find
+
+⌘ code & design projects
+
+☁︎ templates
+
+◌ blender & 3d printing
+
+✦ random side projects
+
+──────────── ✦ ────────────
+
+### if you're here
+
+• explore freely & fork if you'd like
+
+• feedback is always appreciated
+
+• if something helps you, i'm happy
+
+──────────── ✦ ────────────
+
+### project philosophy
+
+i like making things that are beautiful. useful. and fun.
+
+──────────── ✦ ────────────
+
+<div align="center">
+
+see you in the next project ˖ ݁. ࿔°
+
+</div>
