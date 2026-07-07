@@ -14,17 +14,17 @@ the internet is a big place. thanks for stopping by mine ♡
 
 <div align="center">
 
-# ✦ about this page ✦
+# ✦ what you'll find ✦
 
 </div>
 
-> ⌘ code & design projects
->
-> ☁︎ templates
->
-> ◌ blender & 3d printing
->
-> ✦ random side projects
+⌘ code & design projects
+
+☁︎ templates
+
+◌ blender & 3d printing
+
+✦ random side projects
 
 ---
 
@@ -54,8 +54,10 @@ the internet is a big place. thanks for stopping by mine ♡
 
 <div align="center">
 
-☘︎ ˖ ݁. ࿔° ☘︎
+˖ ݁. ࿔°
 
 **see you in the next project**
+
+˖ ݁. ࿔°
 
 </div>
