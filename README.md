@@ -2,7 +2,7 @@
 
 # ☘︎. ݁˖ welcome ˖݁.☘︎
 
-### to a little playground for things i build.
+to a little playground for things i build
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -14,37 +14,36 @@ the internet is a big place. thanks for stopping by mine ♡
 
 <div align="center">
 
-# ✦ what you'll find ✦
+**⊹ ₊ what you'll find ₊ ⊹**
 
 </div>
 
-⌘ code & design projects
-
-☁︎ templates
-
-◌ blender & 3d printing
-
+<div align="center">
+⌘ code & design projects 
+☁︎ templates 
+◌ blender & 3d printing 
 ✦ random side projects
 
 ---
+</div>
+<div>
 
-<div align="center">
-
-# ✦ if you're here ✦
+**༝ if you're here ༝**
 
 </div>
 
-> • explore freely & fork if you'd like
+
+> 𐚁 explore freely & fork if you'd like
 >
-> • feedback is always appreciated
+> 𐚁 feedback is always appreciated
 >
-> • if something helps you, i'm happy
+> 𐚁 if something helps you, i'm happy
 
 ---
 
 <div align="center">
 
-# ✦ project philosophy ✦
+**✦ project philosophy ✦**
 
 </div>
 
