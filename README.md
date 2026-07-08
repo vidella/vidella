@@ -1,12 +1,15 @@
 <div align="center">
 
-# ☘︎. ݁˖ welcome ˖݁.☘︎
-
-to a little playground for things i build
+<div align="center">
+<h2>☘︎. ݁˖ welcome ˖݁.☘︎<br>
+  <p></p>
+  <p>. ݁₊ ⊹ . to a little playground for things i build . ⊹ ₊ ݁.</p>
+</h2>
+</div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-the internet is a big place. thanks for stopping by mine ♡
+the internet is a big place. thanks for stopping by mine ⍢
 
 </div>
 
@@ -19,16 +22,15 @@ the internet is a big place. thanks for stopping by mine ♡
 </div>
 
 <div align="center">
-⌘ code & design projects 
-☁︎ templates 
-◌ blender & 3d printing 
-✦ random side projects
+⌘ code & design projects      ◌ blender & 3d printing
+
+☁︎ templates                  ✦ random side projects
 
 ---
 </div>
 <div>
 
-**༝ if you're here ༝**
+**✧ if you're here ✧**
 
 </div>
 
@@ -41,9 +43,9 @@ the internet is a big place. thanks for stopping by mine ♡
 
 ---
 
-<div align="center">
+<div>
 
-**✦ project philosophy ✦**
+**✧ project philosophy ✧**
 
 </div>
 
@@ -53,10 +55,9 @@ the internet is a big place. thanks for stopping by mine ♡
 
 <div align="center">
 
-˖ ݁. ࿔°
+⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
 
-**hope you leave with an idea worth building**
+**hope you leave with an idea worth building!**
 
-˖ ݁. ࿔°
 
 </div>
