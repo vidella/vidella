@@ -39,7 +39,7 @@ the internet is a big place. thanks for stopping by mine ⍢
 >
 > 𐚁 feedback is always appreciated
 >
-> 𐚁 if something helps you, i'm happy
+> 𐚁 if something helps you, i'm glad
 
 ---
 
