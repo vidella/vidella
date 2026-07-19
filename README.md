@@ -22,9 +22,7 @@ the internet is a big place. thanks for stopping by mine ⍢
 </div>
 
 <div align="center">
-⌘ code & design projects      ◌ blender & 3d printing
-
-☁︎ templates                  ✦ random side projects
+⌘ code & design projects             ☁︎ templates             ✦ random side projects
 
 ---
 </div>
