@@ -3,13 +3,13 @@
 <div align="center">
 <h2>☘︎. ݁˖ welcome ˖݁.☘︎<br>
   <p></p>
-  <p>. ݁₊ ⊹ . to a little playground for things i build . ⊹ ₊ ݁.</p>
+  <p>to a little playground for things i build</p>
 </h2>
 </div>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-the internet is a big place. thanks for stopping by mine ⍢
+the internet is a big place. thanks for stopping by mine! ⍢
 
 </div>
 
@@ -17,7 +17,7 @@ the internet is a big place. thanks for stopping by mine ⍢
 
 <div align="center">
 
-**⊹ ₊ what you'll find ₊ ⊹**
+**₊ what you'll find ₊**
 
 </div>
 
