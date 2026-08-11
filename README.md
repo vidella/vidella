@@ -53,8 +53,6 @@ the internet is a big place. thanks for stopping by mine! ⍢
 
 <div align="center">
 
-⊹₊˚‧︵‿₊୨ᰔ୧₊‿︵‧˚₊⊹
-
 **hope you leave with an idea worth building!**
 
 
